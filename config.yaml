@@ -63,7 +63,7 @@ proxies:
     - { name: KR商务x2A♚, type: vmess, server: www.hj200kr.xyz, port: 44123, uuid: 43e102df-df05-4ead-a2fc-8982f6e7b2a0, alterId: 0, cipher: auto, udp: true }
     - { name: KR商务x2B♚, type: vmess, server: www.hj200kr.xyz, port: 44124, uuid: 43e102df-df05-4ead-a2fc-8982f6e7b2a0, alterId: 0, cipher: auto, udp: true }
 proxy-groups:
-    - { name: 火箭TNT, type: select, proxies: [自动选择, 高费率, SG头等x1.5A♛, SG头等x1.5B♛, TW商务x1.5A♚, TW商务x1.5B♚, TW商务x1.5C♚, HK经济x1.5A⭑, HK经济x1.5B⭑, HK经济x1.5C⭑, HK经济x1.5D⭑, HK经济x1.5E⭑, HK经济x1.5F⭑, TW经济x1.5A⭑, TW经济x1.5B⭑, TW经济x1.5C⭑, TW经济x1.5D⭑, SG经济x1.5A⭑, SG经济x1.5B⭑, SG经济x1.5C⭑, SG经济x1.5D⭑] }
+    - { name: 火箭TNT, type: select, proxies: [SG头等x1.5A♛, SG头等x1.5B♛, TW商务x1.5A♚, TW商务x1.5B♚, TW商务x1.5C♚, HK经济x1.5A⭑, HK经济x1.5B⭑, HK经济x1.5C⭑, HK经济x1.5D⭑, HK经济x1.5E⭑, HK经济x1.5F⭑, TW经济x1.5A⭑, TW经济x1.5B⭑, TW经济x1.5C⭑, TW经济x1.5D⭑, SG经济x1.5A⭑, SG经济x1.5B⭑, SG经济x1.5C⭑, SG经济x1.5D⭑] }
     - name: Github
       type: select
       proxies:
